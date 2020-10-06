@@ -1,0 +1,191 @@
+@media all and (max-width:1200px) {
+    .header ul li a {
+        padding: 10px 15px;
+    }
+    .header img {
+        padding: 10px 0;
+    }
+}
+
+@media all and (max-width:992px) {
+    .header img {
+        width: 135px;
+    }
+    .header ul li a {
+        padding: 13px 10px;
+        font-size: 14px;
+    }
+    .banner h1 {
+        max-width: 450px;
+        font-size: 35px;
+    }
+    .banner h2 {
+        width: 375px;
+        font-size: 30px;
+    }
+    .item{
+        margin-bottom: 20px;
+    }
+
+}
+
+@media all and (max-width:768px) {
+    .logo{
+        width: 100%;
+        text-align: center;
+    }
+    .text-right {
+        text-align: center !important;
+        margin: auto;
+    }
+    .header ul {
+        text-align: center;
+    }
+    .banner h1 {
+        max-width: 400px;
+        font-size: 30px;
+    }
+    .banner h2 {
+        width: 350px;
+        font-size: 26px;
+    }
+    .banner {
+        padding: 150px 0;
+    }
+    .about h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .about p {
+        font-size: 18px;
+    }
+    .fotter-left {
+        width: 100%;
+        text-align: center;
+    }
+    .fotter-right {
+        width: 100%;
+        text-align: center;
+    }
+    .fotter-right ul {
+        text-align: center;
+    }
+}
+
+@media all and (max-width:550px) {
+    .header ul li a {
+        padding: 10px 8px;
+        font-size: 12px;
+    }
+    .banner h1 {
+        max-width: 300px;
+        font-size: 20px;
+    }
+    .banner h2 {
+        width: 250px;
+        font-size: 20px;
+    }
+    .banner {
+        padding: 120px 0;
+    }
+    .about h1 {
+        font-size: 26px;
+        margin-bottom: 16px;
+    }
+    .about p {
+        max-width: 350px;
+        font-size: 16px;
+    }
+    .item {
+        width: 100%;
+    }
+    .service h2 {
+        margin: 15px 0;
+        font-size: 25px;
+    }
+    .service p {
+        font-size: 16px;
+    }
+    .blog-right h2 {
+        font-size: 24px;
+    }
+    .blog-right ul li {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width:400px) {
+    .header img {
+        width: 100px;
+    }
+    .header ul li a {
+        padding: 5px 5px;
+        font-size: 10px;
+    }
+    .banner h1 {
+        max-width: 250px;
+        font-size: 18px;
+    }
+    .banner h2 {
+        width: 220px;
+        font-size: 16px;
+    }
+    .banner {
+        padding: 100px 0;
+    }
+    .fotter-left p {
+        font-size: 10px;
+    }
+    .fotter-right ul {
+        margin-left: -45px;
+    }
+    .fotter-right ul li a {
+        font-size: 16px;
+        margin-left: 5px;
+    }
+}
+
+@media all and (max-width:300px) {
+    .header img {
+        width: 80px;
+    }
+    .header ul li a {
+        padding: 4px 4px;
+        font-size: 7px;
+    }
+    .banner h1 {
+        max-width: 200px;
+        font-size: 14px;
+    }
+    .banner h2 {
+        width: 150px;
+        font-size: 10px;
+    }
+    .banner {
+        padding: 80px 0;
+    }
+    .about h1 {
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    .about p {
+        max-width: 248px;
+        font-size: 10px;
+        margin: auto;
+    }
+    .service h2 {
+        font-size: 18px;
+    }
+    .service p {
+        font-size: 12px;
+    }
+    .blog-right h2 {
+        font-size: 18px;
+    }
+    .blog-right ul li {
+        font-size: 12px;
+        margin-left: -35px;
+
+    }
+
+}
